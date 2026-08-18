@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Datta Leave App</string>
+    <string name="title_activity_main">Datta Leave App</string>
+    <string name="package_name">com.dsssk.leavemanagement</string>
+    <string name="custom_url_scheme">com.dsssk.leavemanagement</string>
+</resources>

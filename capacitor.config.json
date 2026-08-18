@@ -1,0 +1,8 @@
+{
+  "appId": "com.dsssk.leavemanagement",
+  "appName": "Datta Leave App",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http"
+  }
+}

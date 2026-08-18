@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091298650670",
+    "project_id": "dsssk-leave-app",
+    "storage_bucket": "dsssk-leave-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091298650670:android:15d1c5de36b66a38950dbf",
+        "android_client_info": {
+          "package_name": "com.dsssk.leavemanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlbkprHZP7HDl-hJBDCDdcVz_jivORUQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
